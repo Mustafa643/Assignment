@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+    font-size: 35px;
+    color: green;
+}
+p{
+    text-decoration: green;
+    text-decoration-color: greenyellow;
+    color:black;
+    font-size: 30px;
+}
+body{
+    color: yellow;
+}

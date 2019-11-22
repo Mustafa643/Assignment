@@ -1,0 +1,10 @@
+.wrapper{
+    background-color: white;
+    margin: 50px;
+}
+table, th, td {
+    border: 1px solid black;
+  }
+  .cyan{
+      background-color: cyan;
+  }
